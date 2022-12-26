@@ -6,7 +6,7 @@ This repository is a phonemic multilingual (Russian-English) implementation base
 ### [Example](https://soundcloud.com/fn5va3vghrkh/sets/multi-tacotron)
 
 ## Quick start
-Use the [colab online demo](https://colab.research.google.com/github/vlomme/Multi-Tacotron-Voice-Cloning/blob/master/Multi_Tacotron_Voice_Cloning.ipynb)
+Use the [colab online demo](https://colab.research.google.com/github/Satir666/Multi-Tacotron-Voice-Cloning/blob/master/Multi_Tacotron_Voice_Cloning.ipynb)
 
 ### Requirements
 You will need the following whether you plan to use the toolbox only or to retrain the models.
